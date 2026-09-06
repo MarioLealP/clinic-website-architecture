@@ -63,7 +63,7 @@ to code objects and manages schema migrations.
 time, served directly by the edge. The API is not on the critical path for
 reading the site.
 
-**`prefers-reduced-motion`** — a browser setting the site honours by suppressing
+**prefers-reduced-motion** — a browser setting the site honours by suppressing
 non-essential animation for visitors who ask for it. An accessibility
 requirement.
 
