@@ -69,3 +69,4 @@ flowchart TB
 | [`docs/05-security-and-privacy.md`](docs/05-security-and-privacy.md) | Threat model, hardening, data protection |
 | [`docs/06-design-system-as-guardrail.md`](docs/06-design-system-as-guardrail.md) | Why the editor cannot break the design |
 | [`docs/decisions/`](docs/decisions) | Architecture decision records |
+| [`docs/glossary.md`](docs/glossary.md) | Terms |
