@@ -100,9 +100,6 @@ prerendered HTML and handles interactivity (tag filter, search).
 authenticate against one identity provider; local logins are disabled once SSO
 is wired.
 
-**uat** — User Acceptance Testing. The environment where the editor confirms a
-change says what they mean and sounds like the clinic before it goes to prod.
-
 **VPN** — the private network path by which the operator reaches the admin app,
 which is not exposed on the public edge in the target design.
 
